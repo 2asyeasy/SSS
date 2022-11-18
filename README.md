@@ -1,2 +1,3 @@
 # SSS
-Swift Speech Sample
+
+A SFSpeechRecognizer-based voice recordings transcriber for iOS
